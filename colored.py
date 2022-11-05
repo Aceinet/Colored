@@ -34,4 +34,3 @@ class style:
 	Reset = '\u001b[0m'
 	Bold = '\033[1m'
 	Underline = '\033[4m'
-print(f'{color.BlueLIGHT}{background.Red}Warning{style.Reset}')
